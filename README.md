@@ -12,5 +12,5 @@ Código con el que podemos jugar al mítico juego de Piedra, papel, tijera, laga
 #### Spock vaporiza piedra
 #### Piedra aplasta a tijeras
 
-https://Muzquiz10/Piedra-Papel-Tijera-Lagarto-Spock/main/piedra-papel-tijeras.png
+
 https://raw.githubusercontent.com/Muzquiz10/Piedra-Papel-Tijera-Lagarto-Spock/master/piedra-papel-tijeras.png
