@@ -1,6 +1,8 @@
 # Piedra-Papel-Tijera-Lagarto-Spock
 Código con el que podemos jugar al mítico juego de Piedra, papel, tijera, lagarto, spock de la serie Big Bang Theory 
 
+![Imagen Juego](https://raw.githubusercontent.com/Muzquiz10/Piedra-Papel-Tijera-Lagarto-Spock/master/piedra-papel-tijeras.png)
+
 #### Tijeras cortan a papel
 #### Papel tapa a piedra
 #### Piedra aplasta a lagarto
@@ -13,4 +15,4 @@ Código con el que podemos jugar al mítico juego de Piedra, papel, tijera, laga
 #### Piedra aplasta a tijeras
 
 
-![Imagen Juego](https://raw.githubusercontent.com/Muzquiz10/Piedra-Papel-Tijera-Lagarto-Spock/master/piedra-papel-tijeras.png)
+
